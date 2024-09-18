@@ -1,6 +1,9 @@
 # leadnews_frontEnd
 # 黑马头条_前端
 
+### install the package
+npm install
+
 ### the start command of leadnews-web-admin:
 npm run dev
 
